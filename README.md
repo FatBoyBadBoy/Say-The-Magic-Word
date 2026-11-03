@@ -123,3 +123,7 @@ sudo faillock --user $USER --reset
 ## 📄 License
 
 [MIT](LICENSE). Jurassic Park is a trademark of Universal Pictures. This project is a fan joke and is not affiliated with or endorsed by Universal.
+
+## AI 
+
+This project is made with the help of AI(cluade), and it not a 100% Human made.
