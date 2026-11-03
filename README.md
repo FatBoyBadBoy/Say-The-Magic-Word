@@ -126,4 +126,4 @@ sudo faillock --user $USER --reset
 
 ## AI 
 
-This project is made with the help of AI(cluade), and it not a 100% Human made.
+This project is made with the help of AI(Cluade), and it not a 100% Human made.
