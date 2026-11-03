@@ -1,0 +1,10 @@
+# Media clips are not included in this repo, add your own locally
+*.gif
+*.mp4
+*.webm
+
+# Backups and editor files
+*.bak
+*~
+.*.swp
+.DS_Store
