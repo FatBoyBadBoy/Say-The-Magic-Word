@@ -46,7 +46,7 @@ sudo pacman -S --needed figlet mpv libnotify
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/magic-word-sudo.git
+git clone https://github.com/FatBoyBadBoy/Say-The-Magic-Word.git
 cd magic-word-sudo
 ./install.sh
 ```
